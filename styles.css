@@ -9,21 +9,19 @@
 .holder{
 	flex-wrap:wrap;
 }
-.item1{
-	background:green;
+.item1,.item2,.item3{
 	width:100px;
 	height:100px;
+}
+.item1{
+	background:green;
 	font-size:50px;
 }
 .item2{
 	background:red;
-	width:100px;
-	height:100px;
 	font-size:50px;
 }
 .item3{
 	background:blue;
-	width:100px;
-	height:100px;
 	font-size:50px;
 }
